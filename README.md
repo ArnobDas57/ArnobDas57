@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnob</h1>
-<h3 align="center">A passionate frontend devSoftware Engineering graduate from Western University.</h3>
+<h3 align="center">I'm a Software Engineering graduate from Western University. I have done internships at RBC and Equestrian Show Manager.</h3>
 <img align="right" alt="gif" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnobdas57&label=Profile%20views&color=0e75b6&style=flat" alt="arnobdas57" /> </p>
