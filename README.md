@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Arnob</h1>
-<img align="right" alt="gif" width="200" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 <h3 align="center">I'm a Software Engineering graduate from Western University. I have done internships at RBC and Equestrian Show Manager.</h3>
 
 
