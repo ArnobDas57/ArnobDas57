@@ -42,4 +42,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnobdas57&label=Profile%20views&color=0e75b6&style=flat" alt="arnobdas57" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnobdas57&count_private=true&theme=tokyonight&showicons=true" alt="arnobdas57" /></p>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArnobDas57&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnobDas57&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArnobDas57&show_icons=true&theme=dark&hide_border=true)
